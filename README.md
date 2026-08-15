@@ -2,6 +2,7 @@
 > A privacy-preserving zero-knowledge revenue distribution & dividend sharing dApp built on the **Midnight Network** using **Compact smart contracts**.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-private--revenue--sharing--platform-181717?style=flat-square&logo=github)](https://github.com/sanasabnam59-svg/private-revenue-sharing-platform)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo_Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/4o_99AA2TIo)
 [![Midnight Network](https://img.shields.io/badge/Network-Midnight_Preview-8b5cf6?style=flat-square)](https://preview.midnightexplorer.com)
 [![Compact Language](https://img.shields.io/badge/Compact-v0.23-06b6d4?style=flat-square)](https://midnight.network)
 [![Next.js Framework](https://img.shields.io/badge/Framework-Next.js_16-black?style=flat-square&logo=nextdotjs)](https://nextjs.org)
@@ -20,22 +21,31 @@ By enabling participants and shareholders to generate zero-knowledge cryptograph
 
 ---
 
-## 🏗️ Repository & On-Chain Topology
+## 🎬 Platform Demonstration & Resources
 
 - 📦 **GitHub Repository**: [https://github.com/sanasabnam59-svg/private-revenue-sharing-platform](https://github.com/sanasabnam59-svg/private-revenue-sharing-platform)
+- 🎬 **YouTube Demo Video**: [Watch Demo Video on YouTube](https://youtu.be/4o_99AA2TIo)
 - 📄 **Platform Proposal**: [PROPOSAL.md](PROPOSAL.md)
 - 🌐 **Midnight Contract Address**: `0x65bd5c06626e6615df26a253c55f328223319222f67b926bc8683229c8137577` ✅ **VERIFIED**
 - 🔍 **Midnight Explorer**: [View Contract on Explorer](https://preview.midnightexplorer.com/contracts/0x65bd5c06626e6615df26a253c55f328223319222f67b926bc8683229c8137577)
 - 📡 **GraphQL Indexer Endpoint**: `https://indexer.preview.midnight.network/api/v4/graphql`
 - 💧 **Faucet Endpoint**: `https://faucet.preview.midnight.network`
 
-### Verified On-Chain Circuit Call Verification Matrix
+---
 
-| # | Circuit | TxHash | Status |
-|---|---|---|---|
-| 1 | `resetRevenuePool(Bytes<32>)` | `0x96be9fef64c0b536f8f6f4bada06ae1c8e77cc135f2efdeaad4b6ce0891c3770` | ✅ CONFIRMED |
-| 2 | `claimRevenue(Bytes<32>)` | `0x5a85886a759b483bd7f6f04c467bfd96bd939abfd72070f74b052627792f2c8b` | ✅ CONFIRMED |
-| 3 | `incrementEpoch()` | `0x3f18a42c98d642b109e2e6005cfa28e19b8076d6541f2a33c14a9058b762881a` | ✅ CONFIRMED |
+## 📸 Platform Screenshots
+
+### 1. PRSP Main Platform Dashboard
+![PRSP Platform Dashboard](photos/Dashboard.jpeg)
+
+### 2. Claim Revenue Portal — ZK Witness Proof Generation
+![PRSP Claim Revenue Portal](photos/claimrevenue.png)
+
+### 3. Governance & Revenue Pool Admin Console
+![PRSP Governance Admin Console](photos/admin.png)
+
+### 4. Mobile Responsive UI & Dark Glassmorphism Interface
+![PRSP Mobile Responsive UI](photos/mobile%20UI.png)
 
 ---
 
@@ -59,6 +69,14 @@ Midnight’s dual-state architecture isolates private browser witness states fro
 | `platformRevenueId` | `Bytes<32>` | Active revenue pool identifier configured by platform operators |
 | `lastPayoutCommitment` | `Bytes<32>` | Disclosed 256-bit ZK commitment hash verifying private claim legitimacy |
 | `activeEpoch` | `Counter` | Epoch payout cycle counter incremented during distribution rotations |
+
+### Verified On-Chain Circuit Call Verification Matrix
+
+| # | Circuit | TxHash | Status |
+|---|---|---|---|
+| 1 | `resetRevenuePool(Bytes<32>)` | `0x96be9fef64c0b536f8f6f4bada06ae1c8e77cc135f2efdeaad4b6ce0891c3770` | ✅ CONFIRMED |
+| 2 | `claimRevenue(Bytes<32>)` | `0x5a85886a759b483bd7f6f04c467bfd96bd939abfd72070f74b052627792f2c8b` | ✅ CONFIRMED |
+| 3 | `incrementEpoch()` | `0x3f18a42c98d642b109e2e6005cfa28e19b8076d6541f2a33c14a9058b762881a` | ✅ CONFIRMED |
 
 ---
 
