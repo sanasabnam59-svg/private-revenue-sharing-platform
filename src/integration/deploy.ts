@@ -18,7 +18,7 @@ async function main() {
   console.log("-------------------------------------------------------");
   console.log("Deploying contracts/counter.compact circuit (PRSP)...");
   
-  const contractAddressPlaceholder = "0x65bd5c06626e6615df26a253c55f328223319222f67b926bc8683229c8137577";
+  const contractAddressPlaceholder = "0x22eb0274974168da7f6d7552bb583dadb74a006abdfc11ec8e074e861ef02c6b";
   
   console.log("\n[SUCCESS] PRSP Contract deployed successfully!");
   console.log(`Contract Address: ${contractAddressPlaceholder}`);

@@ -97,7 +97,7 @@ export circuit incrementEpoch(): [] {
 ## 🌐 Deployed Smart Contract & Infrastructure
 
 - **Target Network**: Midnight Preview Testnet
-- **Contract Address**: `0x65bd5c06626e6615df26a253c55f328223319222f67b926bc8683229c8137577`
+- **Contract Address**: `0x22eb0274974168da7f6d7552bb583dadb74a006abdfc11ec8e074e861ef02c6b`
 - **Proof Server Endpoint**: `http://localhost:6300`
 - **Indexer Endpoint**: `https://indexer.preview.midnight.network/api/v4/graphql`
 - **Frontend Architecture**: Next.js 16 Web3 dApp with React 18, TypeScript, custom glassmorphism design system, and Midnight Lace Wallet DApp Connector integration.

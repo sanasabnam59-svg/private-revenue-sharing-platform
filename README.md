@@ -26,8 +26,8 @@ By enabling participants and shareholders to generate zero-knowledge cryptograph
 - 📦 **GitHub Repository**: [https://github.com/sanasabnam59-svg/private-revenue-sharing-platform](https://github.com/sanasabnam59-svg/private-revenue-sharing-platform)
 - 🎬 **YouTube Demo Video**: [Watch Demo Video on YouTube](https://youtu.be/4o_99AA2TIo)
 - 📄 **Platform Proposal**: [PROPOSAL.md](PROPOSAL.md)
-- 🌐 **Midnight Contract Address**: `0x65bd5c06626e6615df26a253c55f328223319222f67b926bc8683229c8137577` ✅ **VERIFIED**
-- 🔍 **Midnight Explorer**: [View Contract on Explorer](https://preview.midnightexplorer.com/contracts/0x65bd5c06626e6615df26a253c55f328223319222f67b926bc8683229c8137577)
+- 🌐 **Midnight Contract Address**: `0x22eb0274974168da7f6d7552bb583dadb74a006abdfc11ec8e074e861ef02c6b` ✅ **VERIFIED**
+- 🔍 **Midnight Explorer**: [View Contract on Explorer](https://preview.midnightexplorer.com/contracts/0x22eb0274974168da7f6d7552bb583dadb74a006abdfc11ec8e074e861ef02c6b)
 - 📡 **GraphQL Indexer Endpoint**: `https://indexer.preview.midnight.network/api/v4/graphql`
 - 💧 **Faucet Endpoint**: `https://faucet.preview.midnight.network`
 
