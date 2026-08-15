@@ -96,6 +96,7 @@ export circuit incrementEpoch(): [] {
 
 ## 🌐 Deployed Smart Contract & Infrastructure
 
+- **Live Deployment**: `https://private-revenue-sharing-platform.vercel.app`
 - **Target Network**: Midnight Preview Testnet
 - **Contract Address**: `0x22eb0274974168da7f6d7552bb583dadb74a006abdfc11ec8e074e861ef02c6b`
 - **Proof Server Endpoint**: `http://localhost:6300`

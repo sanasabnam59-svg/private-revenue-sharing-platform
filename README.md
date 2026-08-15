@@ -2,6 +2,7 @@
 > A privacy-preserving zero-knowledge revenue distribution & dividend sharing dApp built on the **Midnight Network** using **Compact smart contracts**.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-private--revenue--sharing--platform-181717?style=flat-square&logo=github)](https://github.com/sanasabnam59-svg/private-revenue-sharing-platform)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat-square&logo=vercel)](https://private-revenue-sharing-platform.vercel.app/)
 [![Demo Video](https://img.shields.io/badge/YouTube-Demo_Video-ff0000?style=flat-square&logo=youtube)](https://youtu.be/4o_99AA2TIo)
 [![Midnight Network](https://img.shields.io/badge/Network-Midnight_Preview-8b5cf6?style=flat-square)](https://preview.midnightexplorer.com)
 [![Compact Language](https://img.shields.io/badge/Compact-v0.23-06b6d4?style=flat-square)](https://midnight.network)
@@ -23,6 +24,7 @@ By enabling participants and shareholders to generate zero-knowledge cryptograph
 
 ## 🎬 Platform Demonstration & Resources
 
+- 🚀 **Live dApp Deployment**: [https://private-revenue-sharing-platform.vercel.app](https://private-revenue-sharing-platform.vercel.app/)
 - 📦 **GitHub Repository**: [https://github.com/sanasabnam59-svg/private-revenue-sharing-platform](https://github.com/sanasabnam59-svg/private-revenue-sharing-platform)
 - 🎬 **YouTube Demo Video**: [Watch Demo Video on YouTube](https://youtu.be/4o_99AA2TIo)
 - 📄 **Platform Proposal**: [PROPOSAL.md](PROPOSAL.md)
